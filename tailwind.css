@@ -1,0 +1,48 @@
+.h-full {
+  height: 100%
+}
+
+.items-center {
+  align-items: center
+}
+
+.rounded-full {
+  border-radius: 9999px
+}
+
+.bg-orange {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 120 73 / var(--tw-bg-opacity))
+}
+
+.bg-gray-light {
+  --tw-bg-opacity: 1;
+  background-color: rgb(211 220 230 / var(--tw-bg-opacity))
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem
+}
+
+.pt-\[13\] {
+  padding-top: 13
+}
+
+.pt-\[12\] {
+  padding-top: 12
+}
+
+.font-semibold {
+  font-weight: 600
+}
+
+.text-yellow {
+  --tw-text-opacity: 1;
+  color: rgb(255 200 44 / var(--tw-text-opacity))
+}
